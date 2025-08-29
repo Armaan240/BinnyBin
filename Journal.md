@@ -42,4 +42,4 @@ These are some ugly images of ugly looking dustbin but dont judge a book by its 
 ![IMG_2251](https://github.com/user-attachments/assets/6ebcb633-54cb-4d2e-ba84-09f06baeb89d)
 ![IMG_2252](https://github.com/user-attachments/assets/8550d0a4-c3a1-4639-8858-b8acb496aebd)
 Also Here Is Th Movement Of The Lid With Servo 
-https://youtube.com/shorts/xzHs4P4OhEI
+https://youtube.com/shorts/AviMBW78pgw?feature=shared
