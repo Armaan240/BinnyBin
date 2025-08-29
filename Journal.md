@@ -29,3 +29,4 @@ As i had Tested the Nano Functionality with recycle bin in windows now it was ti
 ,but before that i had to make a work flow and a reference of the circuit and logic, hmm after many thoughts  I decided to the make a single standalone device which can be installed on any dust bin. 
 the logic will be that i will add the empty depth of the dustbin and then write a simple but effective code that if the height of the bin is equal to readings made by ultrasonic sensor (empty case) it Sends Trigger Command to python script then the same script clear the recyle bin but if the empty height is not equal to what ultrasonic senor could read it would SenD a command that currently dustbins is filled 
 I would make a python app which could be run in any device and shows real status of the bin , also in future I would add lights and more sensors to this device but for now i am only doing a straight forward process
+![]()
