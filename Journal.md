@@ -19,8 +19,8 @@ don't why it happens to me only I forgot to write code in my laptop to track cod
 
 ### *(4PM-4:30PM)(Debuging)*
 The code Which i Wrote Before Had Some Compiling issues so i look out some of errors and corrected them ,as i was writing arduino code after a long times so mistake happened but now it was fully working ,so the logic of the code is that if press the rest buuton on nano it runs the code and the as toldabove the python scripts read the trigger command running at the background
-Here Is the Test Code And a Video(the Video Was Shot on Next Day Because i Forget it )
-![](https://github.com/Armaan240/BinnyBin/blob/main/Images/Screenshot%20(171).png))
-![](https://github.com/Armaan240/BinnyBin/blob/main/Images/Screenshot%20(172).png))
-https://github.com/user-attachments/assets/c9c88c73-746b-45f9-b7a5-462e45f7a41d
+Here Is the Test Code And a Video
+![](https://github.com/Armaan240/BinnyBin/blob/main/Images/Screenshot%20(171).png)
+![](https://github.com/Armaan240/BinnyBin/blob/main/Images/Screenshot%20(172).png)
+![](https://github.com/user-attachments/assets/c9c88c73-746b-45f9-b7a5-462e45f7a41d)
 
