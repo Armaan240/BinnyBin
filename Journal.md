@@ -32,3 +32,14 @@ I would make a python app which could be run in any device and shows real status
 ![](Images/IMG_2245.jpeg)
 ![](Images/IMG_2238.jpeg)
 ![](Images/IMG_2248.jpeg) 
+
+## **29 AUG 2025 (Dustbin Design And Movement)**
+
+### *(10AM-12:PM)(Choosing A Rught Dustbin)*
+hmm so i today i had to go for urgent work but dont wanted to delay my project so i decided to complete the most inportant and main part on which the whole functionig depends so firstly i made a lid for the dustbin which would be operated by a servo motor and a ir sensor thus opening the lid with using hands also as it was to be kept on the desk so i dont wanted to make my desk look ugly with a big dustbin , hmm therefore choose a small box and hand sawed a lid made of wood , yah i know it looks ugly right now but later on i would spray black paint on it , after making the lid made a movement system for the bin , just for prtotyping i am using an ugly thread but would use a more effcient way to move the lid in the final project , i always try to test out raw things first before final touches
+
+These are some ugly images of ugly looking dustbin but dont judge a book by its cover 
+![IMG_2251](https://github.com/user-attachments/assets/6ebcb633-54cb-4d2e-ba84-09f06baeb89d)
+![IMG_2252](https://github.com/user-attachments/assets/8550d0a4-c3a1-4639-8858-b8acb496aebd)
+Also Here Is Th Movement Of The Lid With Servo 
+https://youtube.com/shorts/xzHs4P4OhEI
