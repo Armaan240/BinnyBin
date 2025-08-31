@@ -7,7 +7,7 @@
 | Description | Binny is a Smart Dustbin ,Clean your Dustbin on your desk ,Get Your Recyle bin deleted by it  |
 | Created  | 2025-08-28 |
 | Last Updated  | 2025-08-29 |
-| Total Time Till date| 4 Hours|
+| Total Time Till date| 6 Hours|
 ## **28 AUG 2025 (Idea and Research and Development)**
 
 ### *(8AM-10AM)(70-75min -> RND ,35-40 min -> Test Code)*
