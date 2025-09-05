@@ -22,6 +22,7 @@ The code Which i Wrote Before Had Some Compiling issues so i look out some of er
 Here Is the Test Code And a Video
 ![](https://github.com/Armaan240/BinnyBin/blob/main/Images/Screenshot%20(171).png)
 ![](https://github.com/Armaan240/BinnyBin/blob/main/Images/Screenshot%20(172).png)
+
 https://github.com/user-attachments/assets/c9c88c73-746b-45f9-b7a5-462e45f7a41d
 
 ### *(8PM-9:30PM)(Final Circuit)*
@@ -53,6 +54,7 @@ uhh i had to go to a family trip which was pretty good but also boring as i was 
 this task seem to be easy at first but it got hard with the time as i made the lid of the dustbin of a ply wood wich was pretty heavy and i had a very bad servo with less torque hmm so after many hit and trials i decide to place the servo at the top with a long head which will be able to open through a sufficient height ,now it was time to cut the the bin which i did very easily with a hot knife add installed the servo ,after that i decided to make final circuit asap aslo ,so i added a ir sesor for detecting hand and ultrasonic senor and wired them ,also i add a extra usb for powering servo which takes 5v so that current does not get lowered for ir and ultrasonic sensor ,all this to be installed at the back of the dustbin here is the pic of the wiring for testing the movement a added a simple ir and servo code 
 ![](https://github.com/Armaan240/BinnyBin/blob/main/Images/wire.jpeg)
 ![](https://github.com/Armaan240/BinnyBin/blob/main/Images/pait.jpeg)
+
 https://github.com/user-attachments/assets/e278a5c3-3d17-4bac-a73d-da7dd03f8dd6
 
 ### *(9pm-:10:30PM)(Final Code)*
