@@ -42,8 +42,10 @@ hmm so i today i had to go for urgent work but dont wanted to delay my project s
 These are some ugly images of ugly looking dustbin but dont judge a book by its cover 
 ![IMG_2251](https://github.com/user-attachments/assets/6ebcb633-54cb-4d2e-ba84-09f06baeb89d)
 ![IMG_2252](https://github.com/user-attachments/assets/8550d0a4-c3a1-4639-8858-b8acb496aebd)
-Also Here Is Th Movement Of The Lid With Servo 
-https://youtube.com/shorts/AviMBW78pgw?feature=shared
+Also Here Is The Movement Of The Lid With Servo 
+
+https://github.com/user-attachments/assets/dbe1fd5e-33a9-43f6-a742-9a5f070c3bb9
+
 
 ## **4 Sep 2025 (Dustbin Design And Movement ReWork)**
 
